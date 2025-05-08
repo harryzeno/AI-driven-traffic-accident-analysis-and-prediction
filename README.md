@@ -1,7 +1,7 @@
 # Enhancing Road Safety with AI-Driven Traffic Accident Analysis and Prediction
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
-https://github.com/Rakesh-ai-ds/AI-driven-traffic-accident-analysis-and-prediction/blob/9ceab8afdaaba550790a395fbd3758fbc0f19a01/WhatsApp%20Image%202025-05-09%20at%2000.23.23_609a3c82.jpg
+(https://github.com/Rakesh-ai-ds/AI-driven-traffic-accident-analysis-and-prediction/blob/9ceab8afdaaba550790a395fbd3758fbc0f19a01/WhatsApp%20Image%202025-05-09%20at%2000.23.23_609a3c82.jpg?raw=true)
 
 ## Project Overview
 This project leverages machine learning to analyze traffic accident data and predict accident severity, ultimately contributing to enhanced road safety measures. By identifying patterns and risk factors in historical accident data, the system helps recognize conditions that lead to more severe accidents.
