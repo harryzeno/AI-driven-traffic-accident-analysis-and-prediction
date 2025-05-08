@@ -1,7 +1,7 @@
 # Enhancing Road Safety with AI-Driven Traffic Accident Analysis and Prediction
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
-
+![Image](https://github.com/user-attachments/assets/a1aedf39-c06e-4b41-ba58-5b434a56a8ce)
 
 ## Project Overview
 This project leverages machine learning to analyze traffic accident data and predict accident severity, ultimately contributing to enhanced road safety measures. By identifying patterns and risk factors in historical accident data, the system helps recognize conditions that lead to more severe accidents.
