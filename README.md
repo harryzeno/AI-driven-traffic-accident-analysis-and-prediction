@@ -30,7 +30,7 @@ The project uses the "US_Accidents_March23.csv" dataset, which contains informat
 ### Environment Setup
 1. Clone this repository:
 ```bash
-https://github.com/Rakesh-ai-ds/AI-driven-traffic-accident-analysis-and-prediction.git
+https://github.com/harryzeno/AI-driven-traffic-accident-analysis-and-prediction.git
 cd road-safety-prediction
 ```
 
